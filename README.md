@@ -43,13 +43,8 @@ Todos os itens da **Lista de verificação de conformidade com a LGPD** são nec
 * ![Medium][medium_img] significa que o item é **altamente recomendado** e pode eventualmente ser omitido em alguns casos realmente particulares. 
 * ![High][high_img] significa que o item **não pode ser omitido** por qualquer motivo. 
 
-Alguns recursos possuem um emoticon para ajudar você a entender que tipo de conteúdo / ajuda você pode encontrar na lista de verificação:
 
-* 📖: documentação ou artigo
-* 🛠: online tool / testing tool
-* 📹: media or video content
-
-> Você pode contribuir com o ***Aplicativo de Checklist LGPD*** lendo o [arquivo README_APP](), que explica tudo Sobre o projeto.
+> Você pode contribuir com o ***Checklist LGPD*** lendo o [arquivo README_APP](), que explica tudo Sobre o projeto.
 
 ---
 
