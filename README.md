@@ -179,6 +179,47 @@ Neste canal tem acesso a:
 * [ ] O armazenamento dos dados é feitos com criptografia ou outro método que garanta o sigilo?
 * [ ] Se existe política de privacidade, ela está de acordo com a LGPD?
 
+### GERENCIAMENTO DAS INFORMAÇÕES DA EMPRESA - Burocracia
+
+* [ ] É efetuado algum gerenciamento de riscos na organização ?
+* [ ] A política de segurança da informação é bem definida e entendido por todos ?
+* [ ] É feito revisão periódica dos itens de segurança pelo comitê responsável ?
+* [ ] Os riscos terceirizados estão embasados em contrato para garantir a proteção dos dados pessoais ?
+
+### CIÊNCIA DA RESPONSABILIDADE - Conscientização
+
+* [ ] Os funcionários recebem treinamentos periódicos para garantir o conhecimento de suas responsabilidades ?
+
+### CONTROLES DE ACESSO - Segurança física
+
+* [ ] Existe na empresa hábito de restrição de acesso físico somente para quem é permitido ?
+
+### CONTROLES DE ACESSO - Segurança digital
+
+* [ ] Existe na empresa hábito de restrição de acesso digital somente para os administradores de rede ?
+* [ ] Os dados são mascarados para técnicos de atendimento terem acesso somente ao que precisam ?
+* [ ] Existe um processo de descarte de equipamentos cuidadoso para que os dados não sejam roubados ?
+* [ ] Existe uma área isolada só para guardar dados pessoais ?
+
+### MEIOS DE PROTEÇÃO - Segurança em computador e rede
+
+* [ ] Os computadores tem antivírus ?
+* [ ] Existe autenticação por FSSO ?
+* [ ] Existem controles para midia removível ?
+* [ ] Os softwares e o sistema operacional são atualizados com frequência ?
+* [ ] Existem métodos de desenvolvimento seguro para os sistemas ?
+* [ ] Existe limitação com o mínimo possível de administradores masters na rede ?
+* [ ] As credenciais têm características de senha forte ?
+* [ ] Existe monitoramento que mapeia quem está violando dados pessoais ?
+* [ ] É feito periodicamente backups e a validação do mesmo ?
+* [ ] A comunicação com o controlador é feito periodicamente para realizar um levantamento dos eventos ocorridos naquele período ?
+* [ ] Existem firewalls na borda da rede ?
+* [ ] É utilizado algum tipo de detecção e prevenção de violação de dados pessoais por meio do IPS ?
+* [ ] São aplicadas medidas de regulamentação às normas mais conhecidas de padronização dos itens de segurança ?
+* [ ] Os logs são guardados em um gerenciador de logs ?
+
+
+
 **[⬆ back to top](#índice)**
 
 ---
